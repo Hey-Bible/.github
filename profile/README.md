@@ -8,15 +8,14 @@ Hey Bible is an easy to use Bible verse lookup tool. With Hey Bible, you can qui
 
 You can use Hey Bible on the web at [heybible.app](https://heybible.app).
 
+### Mobile
 
-### iOS
-
-Hey Bible is available on the [App Store](https://apps.apple.com/us/app/hey-bible/id6474075530).
-
+Hey Bible is available on the [App Store](https://apps.apple.com/us/app/hey-bible/id6474075530) and [Google Play](https://play.google.com/store/apps/details?id=com.workingdevshero.heybible).
 
 <img src="../.assets/hey-bible-login.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-search.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-verse.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-image.png" width="150" style="margin: 0 3px">
 
 [![App Store](../.assets/app-store.svg)](https://apps.apple.com/us/app/hey-bible/id6474075530)
+[![Google Play](../.assets/play-store.svg)]([https://apps.apple.com/us/app/hey-bible/id6474075530](https://play.google.com/store/apps/details?id=com.workingdevshero.heybible))
 
 ### Support
 
