@@ -1,4 +1,4 @@
-![Hey Bible Cover](../.assets/hey-bible-cover.png)
+<img width="1500" height="500" alt="Hey Bible Cover" src="../.assets/hey-bible-cover.png" />
 
 ## Hey Bible ✝️
 
@@ -12,10 +12,9 @@ You can use Hey Bible on the web at [heybible.app](https://heybible.app).
 
 Hey Bible is available on the [App Store](https://apps.apple.com/us/app/hey-bible/id6474075530) and [Google Play](https://play.google.com/store/apps/details?id=com.workingdevshero.heybible).
 
-<img src="../.assets/hey-bible-login.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-search.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-verse.png" width="150" style="margin: 0 3px"> <img src="../.assets/hey-bible-image.png" width="150" style="margin: 0 3px">
+<img width="100" alt="Login" src="../.assets/screenshots/1-login.png" /> <img width="100" alt="Search" src="../.assets/screenshots/2-search.png" /> <img width="100" alt="Favorites" src="../.assets/screenshots/3-favorites.png" /> <img width="100" alt="Verse" src="../.assets/screenshots/4-verse.png" /> <img width="100" alt="Images" src="../.assets/screenshots/5-images.png" /> <img width="100" alt="Image" src="../.assets/screenshots/6-image.png" />
 
-[![App Store](../.assets/app-store.svg)](https://apps.apple.com/us/app/hey-bible/id6474075530)
-[![Google Play](../.assets/play-store.svg)]([https://apps.apple.com/us/app/hey-bible/id6474075530](https://play.google.com/store/apps/details?id=com.workingdevshero.heybible))
+<a href="https://apps.apple.com/us/app/hey-bible/id6474075530"><img height="40" alt="App store" src="https://github.com/user-attachments/assets/66c61660-e95e-4059-acf4-8bd2edc41de4" /></a> <a href="https://play.google.com/store/apps/details?id=com.workingdevshero.heybible"><img height="40" alt="Play Store" src="https://github.com/user-attachments/assets/aabceded-415c-43c1-a55c-9785e50b26b3" /></a>
 
 ### Support
 
