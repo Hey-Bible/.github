@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Hey Bible Cover" src="../.assets/hey-bible-cover.png" />
+<img alt="Hey Bible" src="../.assets/og-image.png" width="1200" />
 
 ## Hey Bible ✝️
 
